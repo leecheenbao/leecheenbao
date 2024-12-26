@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I'm Paul <img src="https://komarev.com/ghpvc/?username=leecheenbao&label=Profile%20views&color=0e75b6&style=flat" alt="ljbl22" /></h1> 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leecheenbao&title=Repositories,Commits,Followers,Stars&theme=juicyfresh" alt="leecheenbao" /></a> </p>
 
 <!--
 **leecheenbao/leecheenbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
