@@ -3,7 +3,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leecheenbao&title=Repositories,Commits,Followers,Stars&theme=juicyfresh" alt="leecheenbao" /></a> </p>
 
 <div>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=leecheenbao&theme=terafox&border_radius=10&locale=zh_Hant&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=leecheenbao&theme=terafox&border_radius=10&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+    </a>
 </div>
 
 <div>
