@@ -4,11 +4,11 @@
 <p>
   <img height="100px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leecheenbao&show_icons=true&locale=en&theme=terafox" alt="leecheenbao" />
   <img height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=leecheenbao&theme=terafox" alt="leecheenbao" />
-  <img height="100px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=leecheenbao&show_icons=true&locale=en&layout=compact&theme=onedark" alt="leecheenbao" />
 </p>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leecheenbao&title=Repositories,Commits&theme=onedark" alt="leecheenbao" /></a> 
+<p>
+    <img height="100px" src="https://github-profile-trophy.vercel.app/?username=leecheenbao&title=Repositories,Commits&theme=onedark" alt="leecheenbao" />
+    <img height="100px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=leecheenbao&show_icons=true&locale=en&layout=compact&theme=onedark" alt="leecheenbao" />
 </p>
 
 
